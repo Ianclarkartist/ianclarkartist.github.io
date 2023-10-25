@@ -1,0 +1,28 @@
+
+body {
+	background-color:powderblue;
+}
+
+h1 {
+	color:yellow;
+	font-family:verdana;
+}
+
+p {
+	color:tomato;
+	font-family:courier;
+}
+
+a:link, a:visited {
+	background-color: #000000;
+	color: white;
+	padding: 15px 30px;
+	text-align: center;
+	text-decoration: none:
+	display: inline-block:
+	
+}
+
+a:hover, a:active {
+	background-color: red;
+}
